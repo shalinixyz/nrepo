@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Variables 
 {
-	int acc_num = 1001;
+	int acc_num = 1000;
 	String name;
 	int balance;
 	double min_balance = 500;
